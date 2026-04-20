@@ -3,7 +3,8 @@ bin/
 obj/
 
 # Umbraco
-umbraco/Data/
+umbraco/Data/*
+!umbraco/Data/Umbraco.sqlite.db
 umbraco/Logs/
 umbraco/medialibrary/
 
