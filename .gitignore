@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+
+# Umbraco
+umbraco/Data/
+umbraco/Logs/
+umbraco/medialibrary/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Environment
+appsettings.Development.json
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
